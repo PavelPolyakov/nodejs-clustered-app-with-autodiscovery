@@ -1,0 +1,6 @@
+module.exports = {
+    "port": 22222,
+    "ttl": 120,
+    "dateFormat": "YYYY-MM-DD HH:mm:ss",
+    "etcd": ["172.28.128.10:4001"],
+}

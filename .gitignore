@@ -1,0 +1,9 @@
+node_modules
+.vagrant
+.idea
+
+etcd-vagrant/.vagrant
+node-app-vagrant/.vagrant
+node-app-vagrant/config/default.js
+
+var/README.md
