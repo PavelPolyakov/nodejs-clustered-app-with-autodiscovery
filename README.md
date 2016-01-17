@@ -3,6 +3,13 @@
 This project is an attempt to build the proof of concept of node.js auto discoverable cluster.
 It's possible, that nodes of the cluster could be located in the different networks.
 
+In detail, the project is described in the articles which are linked below:
+- [Node.js clustered app with autodiscovery. Part 1 - gathering the blocks](http://pavelpolyakov.com/2016/01/17/node-js-clustered-app-with-autodiscovery-part-1-gathering-the-blocks/)
+- [Node.js clustered app with autodiscovery. Part 2 - the demo app](http://pavelpolyakov.com/2016/01/17/node-js-clustered-app-with-autodiscovery-part-2-the-demo-app/)
+
+Video: [Running the app](https://www.youtube.com/watch?v=As0BCnwHLHA)
+
+
 Next technologies are used:
 * [Vagrant](https://www.vagrantup.com/) (for virtualization, at least version 1.7.4)
 * [etcd](https://github.com/coreos/etcd) (to store the registry of the active nodes)
