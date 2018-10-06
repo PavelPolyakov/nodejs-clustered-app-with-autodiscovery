@@ -7,7 +7,7 @@ In detail, the project is described in the articles which are linked below:
 - [Node.js clustered app with autodiscovery. Part 1 - gathering the blocks](http://pavelpolyakov.com/2016/01/17/node-js-clustered-app-with-autodiscovery-part-1-gathering-the-blocks/)
 - [Node.js clustered app with autodiscovery. Part 2 - the demo app](http://pavelpolyakov.com/2016/01/17/node-js-clustered-app-with-autodiscovery-part-2-the-demo-app/)
 
-Video: [Running the app](https://www.youtube.com/watch?v=As0BCnwHLHA)
+Video: [Running the app](https://www.youtube.com/watch?v=fD4d_vr8lgs)
 
 
 Next technologies are used:
@@ -38,6 +38,7 @@ vagrant up
 ```
  Using the UI url - you can examine the current etcd content.
  ![](http://i.imgur.com/67Qrh0U.png)
+ 
 5. Prepare the node machines
  
  ```bash
